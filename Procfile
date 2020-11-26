@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run distribution_graphing.pys
+web: sh setup.sh && streamlit run distribution_graphing.py
